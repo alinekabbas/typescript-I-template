@@ -1,4 +1,4 @@
-export const frota: {}[] = [
+export const frota: {marca: string, modelo: string, ano: number}[] = [
   {
     marca: 'Chevrolet',
     modelo: 'Onix',
